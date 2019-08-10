@@ -1,7 +1,6 @@
 export class Post {
-    title: string="";
-    content: string="";
-    loveIts: number=0;
-    created_at: Date=new Date();
-    constructor(){}
+created_at: Date
+  constructor(public title: string, public content: string, public loveIt: number) {
+    this.created_at = new Date()
+  }
 }
