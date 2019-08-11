@@ -1,1 +1,1 @@
-openclassrooms-angular-ex2-blog-witout-firebase
+openclassrooms-angular-ex2-blog-with-firebase
